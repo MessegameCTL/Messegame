@@ -20,24 +20,36 @@ Es sind da auch noch ein paar Plugins aktiviert. Das seht ihr am Ende der Datei 
 
 ## C# Programmiersprache
 
-Wie funktioniert C#?
+**Wie funktioniert C#?**
+Ausprobieren: https://dotnetfiddle.net/
+
+Hier gibt es Online Aufgaben die man lösen kann und so in einer Art Spiel das programmieren lernt: https://www.hackerrank.com/
+
+Hier gibt es noch ein Online Buch dazu:
+http://openbook.rheinwerk-verlag.de/csharp/
 
 ## GIT
 
-Was ist GIT?
+**Was ist GIT?**
+Git ist ein verteiltes Versionierungssystem welches frei als Open-Source zur Verfügung gestellt wird. Einige bekannte Namen wie der Linux-Kernel, Eclipse oder Android verwenden Git für die Verwaltung ihrer Projekte.
 
-Wie funktioniert GIT?
+**Wie funktioniert GIT?**
+Hier zwei Links dazu:
+https://rogerdudler.github.io/git-guide/index.de.html
+https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Git-Grundlagen
 
 ## Visual Studio
 
-Was ist Visual Studio?
-
-Wie funktioniert Visual Studio?
+**Was ist Visual Studio?**
+Visual Studio ist eine Entwicklungsumgebung von Microsoft. Mit VS (Visual Studio) kann man in mehreren Programmiersprachen entwickeln.
+https://de.wikipedia.org/wiki/Visual_Studio
 
 ## Unity3D
 
-Was ist Unity3D?
+**Was ist Unity3D?**
+Unity ist eine Spiel-Engine. Wenn nicht sogar eine der bekanntesten [Spiel-Engines](https://de.wikipedia.org/wiki/Liste_von_Spiel-Engines). 
+https://de.wikipedia.org/wiki/Unity_(Spiel-Engine)
 
-Wie funktioniert Unity3D?
-
+**Wie funktioniert Unity3D?**
+Unity3D lernen: https://unity3d.com/de/learn
 
