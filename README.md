@@ -44,6 +44,12 @@ https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Git-Grundlagen
 Visual Studio ist eine Entwicklungsumgebung von Microsoft. Mit VS (Visual Studio) kann man in mehreren Programmiersprachen entwickeln.
 https://de.wikipedia.org/wiki/Visual_Studio
 
+**Kostenlose Version downloaden**
+Die Version Visual Studio Community 2017 ist kostenlos für Studenten, Open Source und einzelne Entwickler.
+Die Software kann man hier herunterladen: https://www.visualstudio.com/de/downloads/
+
+Hier gibt es auch noch Anleitungen für VS 2017: https://www.visualstudio.com/de/vs/getting-started/
+
 ## Unity3D
 
 **Was ist Unity3D?**
@@ -52,4 +58,8 @@ https://de.wikipedia.org/wiki/Unity_(Spiel-Engine)
 
 **Wie funktioniert Unity3D?**
 Unity3D lernen: https://unity3d.com/de/learn
+
+**Wie bekomme ich Unity3D?**
+Man kann sich die "Personal" Version von Unity3D kostenlos downloaden. 
+Den Download findet ihr hier: https://unity3d.com/de/get-unity/download
 
